@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C12Txe20BIPqawJ9PkU1aUZJrgV8E9IK99RyHJDhPhdgCdwbjR4Fx+ZgXgmuvAAnuluJj/+tDcAshIidp7yfhQ==",
+  "success": true,
+  "projectFilePath": "D:\\School Projects\\repos\\AhHaHa\\AhHaHa\\AhHaHa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chanc\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\chanc\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\chanc\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
